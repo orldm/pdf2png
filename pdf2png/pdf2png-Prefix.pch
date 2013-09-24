@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'pdf2png' target in the 'pdf2png' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
